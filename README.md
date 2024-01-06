@@ -1,2 +1,2 @@
 # Amazon Classifier
-testing
+The goal of the Amazon Classifier is to determine whether an object is "awesome" based on its visible traits, such as comments, likes, dates, number of images in comments, etc. "Awesomeness" is a trait which someone decided; they handpicked which products were "awesome" and which were not. This is a simple binary classification problem and the solution is the Amazon "Awesomeness" classifier located in the projects folder. The above jupyter notebook consists of many different functions that were tested and discarded/used in the final solution. The end result of the solution was that it was able to obtain an f1-score of 0.74. The results can also be found in the project folder.
